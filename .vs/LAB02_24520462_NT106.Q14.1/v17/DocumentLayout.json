@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|c:\\users\\admin\\source\\repos\\lab02_24520462_nt106.q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai07.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai07.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai06.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai06.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai06.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai05.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai05.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai03.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai03.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai04.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai02.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai02.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai01.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai01.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai03.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai03.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\lab02_bai01.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\lab02_bai01.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\lab02_24520462_nt106.q14.1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{085441ED-7199-48FE-A1CF-CC2BEDF9A2C2}|LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1.csproj|solutionrelative:lab02_24520462_nt106.q14.1\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Mainform.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Mainform.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\Mainform.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Mainform.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\Mainform.Designer.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAtwGsAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:28:49.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Mainform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Mainform.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\Mainform.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Mainform.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\Mainform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:27:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LAB02_BAI07.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAApwG4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:55:02.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Program.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Program.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:38:25.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LAB02_BAI07.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:53:54.681Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mainform.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Mainform.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\Mainform.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\Mainform.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\Mainform.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T13:29:04.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LAB02_BAI07.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI07.Designer.cs",
+              "ViewState": "AgIAAOAAAAAAAAAAAAAAAO8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T11:53:57.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LAB02_BAI04.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA4wBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:04:04.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LAB02_BAI06.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAApwAQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:44:06.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LAB02_BAI06.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.Designer.cs",
+              "ViewState": "AgIAAOYAAAAAAAAAAAAAANEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:14:02.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LAB02_BAI06.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T09:13:56.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LAB02_BAI06.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.resx",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.resx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.resx",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI06.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-21T11:10:00.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LAB02_BAI05.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwMQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:11:32.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LAB02_BAI05.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:11:27.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LAB02_BAI05.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI05.cs",
+              "ViewState": "AgIAAJYBAAAAAAAAAAAQwKYBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T08:13:59.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LAB02_BAI03.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.Designer.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwBsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:44:19.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LAB02_BAI04.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:03:59.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LAB02_BAI04.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI04.Designer.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T17:04:07.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LAB02_BAI02.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:37:05.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LAB02_BAI03.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:45:01.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LAB02_BAI01.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.Designer.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.Designer.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.Designer.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAABMAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:23:37.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LAB02_BAI01.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:23:27.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LAB02_BAI02.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T13:37:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LAB02_BAI03.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.resx",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.resx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.resx",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-20T15:50:11.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LAB02_BAI03.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI03.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T15:44:11.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LAB02_BAI01.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T10:17:47.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LAB02_BAI02.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs [Design]",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI02.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T11:53:23.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LAB02_BAI01.resx",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.resx",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.resx",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.resx",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\LAB02_BAI01.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-20T11:54:35.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\App.config",
+              "RelativeDocumentMoniker": "LAB02_24520462_NT106.Q14.1\\App.config",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\LAB02_24520462_NT106.Q14.1\\LAB02_24520462_NT106.Q14.1\\App.config",
+              "RelativeToolTip": "LAB02_24520462_NT106.Q14.1\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-20T10:30:05.496Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
